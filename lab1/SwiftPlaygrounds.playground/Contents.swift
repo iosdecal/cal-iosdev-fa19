@@ -1,8 +1,6 @@
 /*
- 
  Partner 1 Name + Email:
  Partner 2 Name + Email:
- 
 */
 
 import Foundation 
@@ -59,7 +57,7 @@ frequency(ofNumbers: [1, 2]) // returns "1:1, 2:1"
 frequency(ofNumbers: []) // returns ""
 */
 /*:
- ### Problem 4 (Optional): Roman Numerals to Integer
+ ### Problem 4: Roman Numerals to Integer
  */
 // Implement the `romanToInt` function:
 
